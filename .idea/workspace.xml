@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9635e787-0072-4dc5-8d98-dbe41510be21" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/devbox/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1653668242" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1653668241" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/devbox/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/devbox/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/devbox/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/proxy-manager-bridge" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/devbox/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/devbox/vendor/composer" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/devbox/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/devbox/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/devbox/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/devbox/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/devbox/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/devbox/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/devbox/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/devbox/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/devbox/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/devbox/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/devbox/vendor/doctrine/doctrine-fixtures-bundle" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="29M0TYQygylV39DeDGgZ92NKSuk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/devbox/public" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/devbox/public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="$PROJECT_DIR$/gen" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorPath" value="https://repo1.maven.org/maven2/org/openapitools/openapi-generator-cli/5.0.0/openapi-generator-cli-5.0.0.jar" />
+      <option name="jdkPath" value="" />
+      <option name="language" value="java" />
+      <option name="specificationPath" value="$PROJECT_DIR$/api.yaml" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9635e787-0072-4dc5-8d98-dbe41510be21" name="Changes" comment="" />
+      <created>1652907657021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652907657021</updated>
+      <workItem from="1652907662036" duration="11656000" />
+      <workItem from="1652986371112" duration="13419000" />
+      <workItem from="1653196644337" duration="2192000" />
+      <workItem from="1653297035028" duration="1250000" />
+      <workItem from="1653668186007" duration="1086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
