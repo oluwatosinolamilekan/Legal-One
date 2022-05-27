@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9635e787-0072-4dc5-8d98-dbe41510be21" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devbox" beforeDir="false" afterPath="$PROJECT_DIR$/devbox" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/src/Actions/CreateLog.php" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/src/Actions/CreateLog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/src/Actions/FilterLog.php" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/src/Actions/FilterLog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/src/Controller/LogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/src/Controller/LogController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devbox/src/DataFixtures/AppFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/src/DataFixtures/AppFixtures.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +20,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/devbox" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
