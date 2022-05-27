@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9635e787-0072-4dc5-8d98-dbe41510be21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox" beforeDir="false" afterPath="$PROJECT_DIR$/devbox" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/src/DataFixtures/AppFixtures.php" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/src/DataFixtures/AppFixtures.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
